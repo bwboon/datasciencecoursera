@@ -1,4 +1,4 @@
 ## This is a markdown file
-li foo
-li bar
-li foo2
+* foo
+* bar
+* foo2
